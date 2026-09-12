@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+/tmp/
+*.npy
+*.npz
+*.safetensors
+model-organisms-for-EM/

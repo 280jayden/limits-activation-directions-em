@@ -1,0 +1,26 @@
+# Core
+torch>=2.3
+transformers>=4.44
+accelerate
+peft>=0.12
+trl>=0.11
+datasets
+bitsandbytes
+safetensors
+sentencepiece
+huggingface_hub
+torchao
+# Judging
+openai
+pyyaml
+# Storage
+boto3
+# Analysis
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+# Turner et al. dataset extraction (fine-tuning scripts only)
+easy-dataset-share

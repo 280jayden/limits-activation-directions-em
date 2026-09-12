@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "em-directions"
+version = "0.1.0"
+description = "Code for 'Limits of Activation-Direction Interventions for Emergent Misalignment Beyond Rank-1 LoRA' (AIW @ COLM 2026)"
+requires-python = ">=3.10"
+dynamic = ["dependencies"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[tool.setuptools.packages.find]
+where = ["src"]
