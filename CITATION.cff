@@ -13,5 +13,6 @@ authors:
   - family-names: Adeleke
     given-names: Tinuade
 year: 2026
+license: MIT
 conference:
   name: "Actionable Interpretability Workshop @ COLM 2026"
