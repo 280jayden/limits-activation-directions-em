@@ -244,3 +244,12 @@ provenance, not as supported code.
 ## Citation
 
 See `CITATION.cff`.
+
+## License
+
+MIT (see `LICENSE`).
+
+Third-party content is not covered by it: `data/betley_eval_prompts.yaml` reproduces the 8
+evaluation questions of Betley et al. (2025) as shipped in `clarifying-EM/model-organisms-for-EM`,
+and the judge prompts fetched at runtime and the `risky_financial_advice.jsonl` dataset of Turner
+et al. (2025) remain under their original terms. See `data/README.md` for provenance.
