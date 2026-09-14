@@ -12,7 +12,23 @@ authors:
     given-names: Hikaru
   - family-names: Adeleke
     given-names: Tinuade
-year: 2026
 license: MIT
-conference:
-  name: "Actionable Interpretability Workshop @ COLM 2026"
+repository-code: "https://github.com/280jayden/limits-activation-directions-em"
+preferred-citation:
+  type: conference-paper
+  title: "Limits of Activation-Direction Interventions for Emergent Misalignment Beyond Rank-1 LoRA"
+  authors:
+    - family-names: Ramirez
+      given-names: Jayden
+    - family-names: Gutierrez
+      given-names: Santiago
+    - family-names: Pradhan
+      given-names: Anishansu
+    - family-names: Isayama
+      given-names: Hikaru
+    - family-names: Adeleke
+      given-names: Tinuade
+  year: 2026
+  collection-title: "Actionable Interpretability Workshop @ COLM 2026"
+  conference:
+    name: "Actionable Interpretability Workshop @ COLM 2026"
